@@ -1,0 +1,10 @@
+total Accesses : 25
+read Accesses : 12
+write Accesses : 13
+cache Misses : 25
+compulsory Misses :25
+capacityMisses : 0
+conflict Misses : 0
+read Misses : 12
+write misses : 13
+dirty blocks evicted : 2

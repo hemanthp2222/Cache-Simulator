@@ -1,0 +1,15 @@
+"new.txt" will contain
+1. cache Size
+2. Block Size
+3. DM cache
+4. LRU replacement
+5. name of the file containing the memory traces.
+
+"memory.txt" will contain
+the memory traces that needs to be processed.
+
+commands to compile and run
+1. g++ cache.cpp main.cpp -o cache
+2. ./cache < new.txt < memory.txt
+
+output will be available in "output.txt"
